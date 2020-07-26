@@ -7,4 +7,4 @@ _____________________________
 
 Raw representation of model:
 
-![Samuel_bharti_covid19_model](https://github.com/Samuel-Bharti/Epidimeology-Model-Covid-19/model_covid19.jpg?raw=true)
+![Samuel_bharti_covid19_model](https://github.com/Samuel-Bharti/Epidimeology-Model-Covid-19/blob/master/model_covid19.jpg?raw=true)
